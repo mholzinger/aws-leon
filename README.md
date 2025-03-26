@@ -142,3 +142,49 @@ This script will delete resources permanently. Always ensure you have appropriat
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+
+<pre style="font-family: monospace; line-height: 1; white-space: pre;">
+
+```text
+              .00OOOO0000000000000000000KKKKKK0'            .,;',',..
+   ....       .OOOOOOOOOO000000000000000KK00KK0'           ..',;,','.          .
+              .0OOOOOOOOO00000000000000KKKKK00K;    .................. .......''
+  ;ddddd.     .0OOO000000000KKKKKKKKKKKKKKKKxlK:.....                       . ..
+  dWWWWN'     .0OO000000000KKKKKKKKKKKKKKKKO;;d;.       .',;:cc:;,...
+  dWWWWN'     .0O000000000KKKKKKXXXXXXXXXXKd'.    .':ok0KK0OOOOOkxdolcc:;,'....
+  dWWWWN'     .OO00000KKKKKKKKKKXXXXXXXXX0c.   .:dkO0KK00kxxkOKK0K00Odollllccc:;
+  dWWWWWNNNNNd d0KKKKKKKKKKXXXXXXXXXXXXKc.  .,dkOOOKK0kdddxkkK0ooKNNX0d;;l;,;;;;
+  ckkkkkkOOkkc d0KKKKKKXXXXXXXXXXXXXXKKk,..,lkOOO0KOl:oo:,;xKkc:ckXXOdkxkd;.',''
+               dKXXXXXXXXXXXXXXXKkdllldk0X0kxOKXNKk;;x;.':OXl,'.',:;ldoodlc;''',
+              .oKXXXXXXXXXXXXXkc,.cdxk0XNNNX0O00Oxc'l'.'dK0;...    .cl'.,',;;:;;
+      .,l:...  :kKXXXXNNNNNXO;....;lxO00Okdl:::::d' . .':;..       .,,. ...'',;;
+  oNNNWWWWNNNd ,dOXXNNNNXXKd. .:xKXKOkdlc:::;,,,':l.           .'..........;c:;;
+  oWWWWXooooo, 'lkXNNNNXK0x..lk0K0xolc::;,'.',;:::do'.....'',;;,......''''',:::;
+  dWWWWWXXXXX, 'lxXNNNNNXKx..:;;;'.........,,,';;::cc:;:;:c:;,''.''''''''',;:ccc
+  dWWWWXooooo' 'lxXXNNNNNXXx,......     ...,;;;,';:ldxol::cc:;;;;,,,;;;;;::::;;;
+  xWWWWWWWWWWk .coKNNNNNK0XKo:::'...       ......,odO0KK00Odolllccccc:::;;,,''''
+  ,cccccccccc, .,c0NNNNNOx0Nl.......       ......:kKXXXKKKK0Okkxkxxdolcc:;,,'''.
+                .;OXNNNNkdk0;  .,...       ...',cx0KXXXK0K0kddooollcc:;;,,''....
+                 ,kONNNXo;o:. .,.....      ..,:ldxkO0XXK0Okddolcc:;;,,,''.......
+   .,coddo:'    .'kkXNNK:cd. .'.;:ccc;,'.......',;:ldkkOkxxolc::;;;,''..........
+ .xNWWWWWWWWKc ...odKNKk::l.''':;''................,';ccllloo::;;,''..''........
+.0WWWXc;:0WWWWl ...:oKk;..,',,;',;::ccc:;,'............',:::;;,'''''''.''''...'.
+.NWWWO.  oWWWWx.....;Od....,.,ldooollcc:::::;;;''.... .....,,;..,'....'''''.....
+ cNWWWNKXWWWW0.    ..ol.  .'.;:'.........',,:ccc::;'.....'.,,'........''..'....
+  .cx0XNXKOd,       .,..  ...c:,''..'',ccllcllccc:;:;'...''.'...................
+                     .     .;oddoxkkkO00OOkddolc:::;,........................
+                          ..,lodddk0KK0OO0O0Odlclcc;;,........... ....
+  ....   ....             ..';clcldokddoclolllc::,.,,,'.............
+  kWWNo. OWWWl            ..',:;;:;coooc:;:;';c,...,,''.......                .
+  kWWWWK;0MMMl            ...''''''':;,........'..'.'......                   .
+  kWWWWWWWMMMl           .. .............  ..  .. .. .
+  kWWWONMMMMMl              . .  ... ..
+  kWWW'.kWMMMl     ......  .. ... '.'  ....,.  .. .. ..   .' .. .. .. ....'.
+  ;ccc.  ,lll'     .. .'.  .  ... .'.  ....,.  .. .. ..   .' .. .. .' ....'.
+                   .......... ............. .................  ............   .
+                     .............. ...........'... ............       ....   .
+                   ..... .....    .      ............            .....  ...   .
+                                            .......               ...
+```
+</pre>
